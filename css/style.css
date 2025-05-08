@@ -1,0 +1,30 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .list-group-item {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    color: #fff;
+  }
+  
+  .list-group-item small {
+    font-size: 0.9em;
+    color: #ccc;
+  }
+  
+  #total-gastos-box {
+    font-weight: bold;
+    font-size: 1.5rem;
+    background-color: #333;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  canvas {
+    background-color: #2c2c2c;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
